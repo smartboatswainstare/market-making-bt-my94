@@ -1,4 +1,4 @@
-# 
+# smart ftx trading bot plugins is the best ftx trading bot plugins with latency-optimization and leverage-management. Safe, reliable, and optimized for CEX, DEX, and algorithmic
 
 
 
